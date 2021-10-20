@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+<h1 align="center"> Kodak Moments! </h1>
 
-You can use the [editor on GitHub](https://github.com/UndreStoker/images/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+<h3 align="center"> These are a colection of some of my moments I've had while serving my country in the World's Greatest Air Force! </h3>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<h4 align="left"> Africa '2020 </h4>
 
-### Markdown
+- Meeting with village elders after a shared herbal tea.  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![FCF5E811-72BC-40CC-B7E7-5494FD7FBE66](https://user-images.githubusercontent.com/91627769/136308041-8dbe0dab-a9fe-4bb5-ae80-626170c4f9bf.JPG)
 
-```markdown
-Syntax highlighted code block
+- My team of warriors before a day on the range in the Sahara. 
+![27b23ed8-3c39-436c-9fa9-59c8bc1b7ebe](https://user-images.githubusercontent.com/91627769/136308044-baedeed6-53bf-461c-96a8-4c27b0ad7c18.JPG)
 
-# Header 1
-## Header 2
-### Header 3
+<h4 align="left"> Saudi Arabia '2019 </h4>
 
-- Bulleted
-- List
+- Enjoying some sunflower seeds during the downtime in between close-quarter tactics.
+![IMG_4440](https://user-images.githubusercontent.com/91627769/136308045-07959bb8-9c58-447c-93d4-835ba9d5dc09.JPG)
 
-1. Numbered
-2. List
+<h4 align="left"> Afghanistan '2018 </h4>
 
-**Bold** and _Italic_ and `Code` text
+- My uber for a year!! Huah 
+![IMG_3402](https://user-images.githubusercontent.com/91627769/136308057-b0cf8a43-ca25-486a-a40b-7a20e28d690f.JPG)
 
-[Link](url) and ![Image](src)
-```
+- Providing protection for Distinguished Personnel. But check out that mountain range in the back! :)
+![IMG_3401](https://user-images.githubusercontent.com/91627769/136308059-a4505b21-1e30-4f50-a1f0-ba9e7243e067.JPG)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- Flew this flag all over the country 
+![IMG_3573](https://user-images.githubusercontent.com/91627769/136308061-2f57a3bb-1224-45fc-83d3-718fe2fbaacf.JPG)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/UndreStoker/images/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
