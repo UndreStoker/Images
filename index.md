@@ -1,3 +1,5 @@
+[Home](https://undrestoker.github.io/Mind-of-Dre/) &nbsp;   [Images](https://undrestoker.github.io/Images/) &nbsp;   [How To](https://undrestoker.github.io/How-To/) &nbsp;   [Links](https://undrestoker.github.io/Links/) &nbsp;   [Contact](https://undrestoker.github.io/Contact/)
+
 <h1 align="center"> Kodak Moments! </h1>
 
 <h3 align="center"> These are a colection of some of the coolest moments I've had while serving my country in the World's Greatest Air Force! </h3>
