@@ -1,33 +1,33 @@
-[comment]: # (Undre Stoker, CSCI 434, 31 Oct 2021, Images Page) 
+
 
 [Home](https://undrestoker.github.io/Mind-of-Dre/) &nbsp;   [Images](https://undrestoker.github.io/Images/) &nbsp;   [How To](https://undrestoker.github.io/How-To/) &nbsp;   [Links](https://undrestoker.github.io/Links/) &nbsp;   [Contact](https://undrestoker.github.io/Contact/)
 
-<h1 align="center"> Kodak Moments! </h1>
+<h1 align="center"> Cardiology </h1>
 
-<h3 align="center"> These are a colection of some of the coolest moments I've had while serving my country in the World's Greatest Air Force! </h3>
+![istockphoto-1298127415-612x612](https://user-images.githubusercontent.com/91627769/154852698-b1749c0d-ee51-4eb6-9dbc-df8974c437e9.jpeg)
 
-<h4 align="left"> Africa '2020 </h4>
+## Common Outpatient Services
 
-- Meeting with village elders after a shared herbal tea.  
+- EKG
+- Peripheral doppler exams
+- Diagnostic nuclear cardiology
+- Echocardiography
+- Exercise stress test
+- Tilt table testing
+- Stress echo
+- Holter monitoring
+- Cardiac event monitoring
+- Ambulatory blood pressure monitoring
+- External counter pulsation
+- Coumadin management clinic
 
-![FCF5E811-72BC-40CC-B7E7-5494FD7FBE66](https://user-images.githubusercontent.com/91627769/136308041-8dbe0dab-a9fe-4bb5-ae80-626170c4f9bf.JPG)
+![istockphoto-1290220631-612x612](https://user-images.githubusercontent.com/91627769/154852720-6f53d2b7-35dd-47f0-adce-a9e94dd6ef12.jpeg)
 
-- My team of warriors before a day on the range in the Sahara. 
-![27b23ed8-3c39-436c-9fa9-59c8bc1b7ebe](https://user-images.githubusercontent.com/91627769/136308044-baedeed6-53bf-461c-96a8-4c27b0ad7c18.JPG)
+### Common Interventional Cardiology Services
 
-<h4 align="left"> Saudi Arabia '2019 </h4>
-
-- Enjoying some sunflower seeds during the downtime in between close-quarter tactics.
-![IMG_4440](https://user-images.githubusercontent.com/91627769/136308045-07959bb8-9c58-447c-93d4-835ba9d5dc09.JPG)
-
-<h4 align="left"> Afghanistan '2018 </h4>
-
-- My uber for a year!! Huah 
-![IMG_3402](https://user-images.githubusercontent.com/91627769/136308057-b0cf8a43-ca25-486a-a40b-7a20e28d690f.JPG)
-
-- Providing protection for Distinguished Personnel. But check out that mountain range in the back! :)
-![IMG_3401](https://user-images.githubusercontent.com/91627769/136308059-a4505b21-1e30-4f50-a1f0-ba9e7243e067.JPG)
-
-- Flew this flag all over the country 
-![IMG_3573](https://user-images.githubusercontent.com/91627769/136308061-2f57a3bb-1224-45fc-83d3-718fe2fbaacf.JPG)
+- Cardiac catheterization
+- Stents
+- Atherectomy
+- Coronary angioplasty
+- Peripheral angioplasty
 
