@@ -1,6 +1,6 @@
+[comment]: # (Undre Stoker, CSCI 497, 20 Feb 2022, LPG Website) 
 
-
-[Home](https://undrestoker.github.io/Mind-of-Dre/) &nbsp;   [Images](https://undrestoker.github.io/Images/) &nbsp;   [How To](https://undrestoker.github.io/How-To/) &nbsp;   [Links](https://undrestoker.github.io/Links/) &nbsp;   [Contact](https://undrestoker.github.io/Contact/)
+[Home](https://undrestoker.github.io/LPG-Systems/) &nbsp;   [Cardiology](https://undrestoker.github.io/Cardiology/) &nbsp;   [Oncology](https://undrestoker.github.io/Oncology/) &nbsp;   [Wellness](https://undrestoker.github.io/Wellness/) &nbsp;   [Chiropractic](https://undrestoker.github.io/Chiropractic/) &nbsp;   [Emergency](https://undrestoker.github.io/Emergency/) &nbsp;  [Contact](https://undrestoker.github.io/Contact/)
 
 <h1 align="center"> Cardiology </h1>
 
